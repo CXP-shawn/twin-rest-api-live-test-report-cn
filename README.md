@@ -36,6 +36,7 @@
 | 06 — 稳定性与性能观察 | [docs/05-stability.md](docs/05-stability.md) |
 | 07 — 给开发者的使用建议 | [docs/06-recommendations.md](docs/06-recommendations.md) |
 | 附录 — 原始实测数据 (42 条 JSON) | [appendix/raw_experiments.json](appendix/raw_experiments.json) |
+| 09 — present_options 人机交互回路（REST API 实测） | [09-present-options-roundtrip.md](09-present-options-roundtrip.md) |
 | 附录 — 端点元信息 (33 条 JSON) | [appendix/endpoints.json](appendix/endpoints.json) |
 
 ## 快速状态表
