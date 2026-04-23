@@ -102,3 +102,7 @@
 ---
 
 _本报告由 Twin REST API 全量端点测试 agent 在单次运行中自动生成。_
+
+---
+
+- 🪲 已就 start-run 不可用、openapi server URL 错误、gRPC 交互端点 UNIMPLEMENTED 等问题向 Twin 官方工程团队提交 bug report：[twin-rest-api-issue-report](https://github.com/CXP-shawn/twin-rest-api-issue-report)
